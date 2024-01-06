@@ -1,0 +1,10 @@
+i.right {
+    margin-left:0px !important;
+}
+.card .card-content .card-title {
+    display:flex !important;
+    justify-content: space-between;
+}
+.card .card-content .card-title i {
+    line-height:35px !important;
+}
